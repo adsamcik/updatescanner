@@ -26,7 +26,7 @@
     "karma-jasmine-html-reporter": "^1.5.1",
     "karma-notification-reporter": "^0.1.2",
     "rimraf": "^3.0.0",
-    "web-ext": "^3.2.1"
+    "web-ext": "^4.0.0"
   },
   "config": {},
   "scripts": {
